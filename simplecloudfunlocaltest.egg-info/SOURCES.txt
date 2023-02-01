@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+setup.py
+simplecloudfunlocaltest/__init__.py
+simplecloudfunlocaltest/_cli.py
+simplecloudfunlocaltest/simplefunctions.py
+simplecloudfunlocaltest.egg-info/PKG-INFO
+simplecloudfunlocaltest.egg-info/SOURCES.txt
+simplecloudfunlocaltest.egg-info/dependency_links.txt
+simplecloudfunlocaltest.egg-info/entry_points.txt
+simplecloudfunlocaltest.egg-info/requires.txt
+simplecloudfunlocaltest.egg-info/top_level.txt
